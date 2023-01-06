@@ -1,0 +1,32 @@
+#tag-cloud {
+  .tag-cloud-title {
+    color: $color-meta;
+  }
+  .tag-cloud-list {
+    .tag-cloud-item {
+      .tag-cloud-count {
+        color: $color-meta;
+      }
+      .tag-cloud-count:before {
+        content: " (";
+      }
+      .tag-cloud-count:after {
+        content: ")";
+      }
+    }
+  }
+}
+
+/* #tag-cloud {
+  .tag-cloud-title {
+    color: $color-meta;
+  }
+  .tag-cloud-tags {
+    clear: both;
+    text-align: center;
+    a {
+      display: inline-block;
+      margin: 10px;
+    }
+  }
+} */

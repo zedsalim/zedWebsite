@@ -1,0 +1,77 @@
+baseURL = ""
+languageCode = "en-us"
+title = "ZED Cyber"
+copyright = "ZED"
+
+
+# Main menu.
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "Posts"
+url = "/posts"
+weight = 2
+
+[[menu.main]]
+name = "Tags"
+url = "/tags"
+weight = 3
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 4
+
+[markup]
+  [markup.tableOfContents]
+    endLevel = 4
+    ordered = false
+    startLevel = 2
+  [markup.highlight]
+    codeFences = true
+    guessSyntax = false
+    hl_Lines = ""
+    lineNoStart = 1
+    lineNos = true
+    lineNumbersInTable = false
+    noClasses = true
+    style = "dracula"
+    tabWidth = 4
+
+[params]
+
+  colortheme = "dark"
+  rss = true
+  googleAnalyticsAsync = true
+  showAllPostsArchive = false
+  # Home page.
+  description = "This Blog is All About Cyber-Security & IT."
+  mainSection = "posts"
+  showAllPostsOnHomePage = true
+  postsOnHomePage = 5
+  tagsOverview = false
+  showProjectsList = false
+  # projectsUrl = ""
+
+  dateFormat = "2006-01-02" # default
+
+  # Post page.
+  show_updated = true
+  showReadTime = true
+
+  [params.comments]
+    enabled = false
+    engine = "comments"
+
+  [[params.social]]
+    name = "github"
+    link = "https://github.com/zedsalim"
+  [[params.social]]
+    name = "facebook"
+    link = "https://www.facebook.com/sxaliim/"
+  [[params.social]]
+    name = "telegram"
+    link = "https://t.me/sxalim"
