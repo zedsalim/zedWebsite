@@ -11,18 +11,20 @@ I'm passionate about everything related to IT in general but mainly interested i
 Eric Steven Raymond said:
 > The hacker culture doesn't have leaders, exactly, but it does have culture heroes and tribal elders and historians and spokespeople.   
 
-and I want to be one of the heroes, that's why I started this blog. Because I love helping people by sharing my humble knowledge.
+That's why I started this blog. Because I love helping people by sharing my knowledge.
 #### In this blog you will find:
 * Essential skills of a Hacker
-	* Linux Basics (and some advanced stuff)
+	* Linux Basics (and some advanced stuff too)
 	* Network Basics
 	* Essential Tools
+	* Programming
+	* Methodology & Mindset
 	* ... etc
-* Some writeups of various CTF and wargames
+* Writeups of various CTF and wargames
 
 ## Contact Me
 
 #### E-Mail
 
-[salimzaiidi@gmail.com](mail:salimzaiidi@gmail.com)
+[salim.zaidi@univ-bouira.dz](mailto:salim.zaidi@univ-bouira.dz)
 
