@@ -1,5 +1,5 @@
 ---
-title: "OverTheWire - Bandit Level 1 Writeup"
+title: "OverTheWire - Bandit Level 0 --> 1 Writeup"
 date: 2023-02-03T05:34:44+01:00
 draft: false
 tags:
