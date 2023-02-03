@@ -25,19 +25,19 @@ The goal of this level is to see the content of a file called **_"readme"_**, an
 ## Solution
 1. Use **pwd** to see your current directory because in the level goal they told us that the **"readme"** file located in the home directory:
 
-```sh
+```bash
 bandit0@bandit:~$ pwd
 /home/bandit0
 ```
 2. Use **ls** to list all the files:
 
-```sh
+```bash
 bandit0@bandit:~$ ls
 readme
 ```
 3. Use **cat** to see the content of the **"readme"** file:
 
-```sh
+```bash
 bandit0@bandit:~$ cat readme 
 NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL
 ```

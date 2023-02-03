@@ -43,7 +43,7 @@ ssh bandit0@bandit.labs.overthewire.org -p 2220
 ```
 Once you hit *Enter*, you will be prompted to confirm the system's identity, type yes and hit *Enter*. Then you will be promted for the server's password like this:
 
-```sh
+```bash
 zed@linux:~$ ssh bandit0@bandit.labs.overthewire.org -p 2220
                          _                     _ _ _   
                         | |__   __ _ _ __   __| (_) |_ 
@@ -59,7 +59,7 @@ bandit0@bandit.labs.overthewire.org's password:
 ```
 Type the password **"bandit0"** (it won't show up in your terminal just type it and hit *Enter*) and if the password is correct then you will log in and you will notice this in your terminal:
 
-```sh
+```bash
 bandit0@bandit:~$ 
 ```
 > That's it, see you in the next level.
