@@ -1,6 +1,6 @@
 ---
 title: "OverTheWire - Bandit Level 2 --> 3 Writeup"
-date: 2023-02-19T09:07:15+01:00
+date: 2023-02-19T06:59:56+01:00
 draft: false
 tags:
 - OverTheWire
@@ -9,7 +9,7 @@ tags:
 - Writeups
 ---
 
-## Level Goal
+### Level Goal
 The password for the next level is stored in a file called spaces in this filename located in the home directory.
 
 [Level link](https://overthewire.org/wargames/bandit/bandit3.html)
