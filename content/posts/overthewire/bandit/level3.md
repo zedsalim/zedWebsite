@@ -1,7 +1,7 @@
 ---
 title: "OverTheWire - Bandit Level 2 --> 3 Writeup"
-date: 2023-02-10T09:07:15+01:00
-draft: true
+date: 2023-02-19T09:07:15+01:00
+draft: false
 tags:
 - OverTheWire
 - Bandit
