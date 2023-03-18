@@ -42,7 +42,7 @@ int main()
 	return 0;
 }
 ```
-### After being compiled: 
+### After Compiling: 
 ```
 Before
 T[1] = 1
@@ -96,7 +96,7 @@ int main()
 }
 ```
 
-### After being compiled:
+### After Compiling:
 
 ```
 Before
@@ -153,7 +153,7 @@ int main()
 	return 0;
 }
 ```
-### After being compiled:
+### After Compiling:
 
 ```
 Before
