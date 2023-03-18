@@ -15,7 +15,7 @@ That's why I started this blog.
 #### In this blog you will find:
 * Essential skills of a Hacker
     * Reverse Engineering
-  	* Programming
+    * Programming
 	* Linux Basics (and some advanced stuff too)
 	* Network Basics
 	* Essential Tools
