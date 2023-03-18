@@ -11,13 +11,14 @@ I'm passionate about everything related to IT in general but mainly interested i
 Eric Steven Raymond said:
 > The hacker culture doesn't have leaders, exactly, but it does have culture heroes and tribal elders and historians and spokespeople.   
 
-That's why I started this blog. Because I love helping people by sharing my knowledge.
+That's why I started this blog.
 #### In this blog you will find:
 * Essential skills of a Hacker
+    * Reverse Engineering
+  	* Programming
 	* Linux Basics (and some advanced stuff too)
 	* Network Basics
 	* Essential Tools
-	* Programming
 	* Methodology & Mindset
 	* ... etc
 * Writeups of various CTF and wargames
