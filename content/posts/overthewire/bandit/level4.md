@@ -1,7 +1,7 @@
 ---
 title: "OverTheWire - Bandit Level 3 --> 4 Writeup"
-date: 2023-02-10T09:07:24+01:00
-draft: true
+date: 2023-03-18T19:01:04+01:00
+draft: false
 tags:
 - OverTheWire
 - Bandit
@@ -12,7 +12,7 @@ tags:
 ## Level Goal
 The password for the next level is stored in a hidden file in the inhere directory.
 
-[Level link](https://overthewire.org/wargames/bandit/bandit.html)
+[Level link](https://overthewire.org/wargames/bandit/bandit4.html)
 
 
 ## Information
