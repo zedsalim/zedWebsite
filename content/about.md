@@ -22,10 +22,3 @@ That's why I started this blog.
 	* Methodology & Mindset
 	* ... etc
 * Writeups of various CTF and wargames
-
-## Contact Me
-
-#### E-Mail
-
-[salim.zaidi@univ-bouira.dz](mailto:salim.zaidi@univ-bouira.dz)
-
