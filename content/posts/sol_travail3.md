@@ -1,7 +1,7 @@
 ---
 title: "Sorting Algorithms"
 date: 2023-03-18T19:29:48+01:00
-draft: false
+draft: true
 tags:
 - C
 - Algorithms
